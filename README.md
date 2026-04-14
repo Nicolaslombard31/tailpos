@@ -21,3 +21,6 @@ Ce fork vise à moderniser et stabiliser l'application TailPOS. Le périmètre d
 **Fonctionnalités et Documentation**
 * Intégration de rapports de ventes plus détaillés (Lectures X et Z).
 * Actualisation de la documentation technique et des procédures de build dans le wiki.
+
+**Rôle**
+* Je suis seul donc j'ai tout les rôles.
